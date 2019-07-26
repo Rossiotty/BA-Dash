@@ -1,3 +1,4 @@
 AvrSalary = Average salary in department
 AvrOrder = Average real order value per client top 5
 AvrUnit =  Average unit value purchased per country top 5
+ShipValue = The value our shippers delivered and orders quantity
