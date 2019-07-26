@@ -79,5 +79,22 @@
             "AverageUnit": "29.4483871",
             "country": "Brazil"
         }
+    ],
+     "ShipValue": [
+        {
+            "shipper_name": "Federal Shipping",
+            "OrderQuantity": "68",
+            "order_value": "2822"
+        },
+        {
+            "shipper_name": "Speedy Express",
+            "OrderQuantity": "57",
+            "order_value": "1807.5"
+        },
+        {
+            "shipper_name": "United Package",
+            "OrderQuantity": "73",
+            "order_value": "1159"
+        }
     ]
  }
