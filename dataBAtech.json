@@ -57,5 +57,27 @@
             "TimesOrdered": "19",
             "AverageOrderSum": "1442.118421"
         }
+    ],
+"AvrCheckc": [
+        {
+            "AverageCheck": "52.45764818",
+            "country": "Spain"
+        },
+        {
+            "AverageCheck": "49.61752137",
+            "country": "Sweden"
+        },
+        {
+            "AverageCheck": "38.70369212",
+            "country": "Mexico"
+        },
+        {
+            "AverageCheck": "31.43685185",
+            "country": "Canada"
+        },
+        {
+            "AverageCheck": "29.4483871",
+            "country": "Brazil"
+        }
     ]
-}
+ }
