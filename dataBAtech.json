@@ -83,18 +83,38 @@
      "ShipValue": [
         {
             "shipper_name": "Federal Shipping",
-            "OrderQuantity": "68",
-            "order_value": "2822"
+            "REALValue": "26210953.6"
         },
         {
             "shipper_name": "Speedy Express",
-            "OrderQuantity": "57",
-            "order_value": "1807.5"
+            "REALValue": "21970946.4"
         },
         {
             "shipper_name": "United Package",
-            "OrderQuantity": "73",
-            "order_value": "1159"
+            "REALValue": "28138229.6"
         }
-    ]
+    ],
+     "SuplQuant": [
+        {
+            "country": "USA",
+            "SuppliersQuantity": "4"
+        },
+        {
+            "country": "France",
+            "SuppliersQuantity": "3"
+        },
+        {
+            "country": "Australia",
+            "SuppliersQuantity": "2"
+        },
+        {
+            "country": "Canada",
+            "SuppliersQuantity": "2"
+        },
+        {
+            "country": "Japan",
+            "SuppliersQuantity": "2"
+        }
+    ],
+     
  }
