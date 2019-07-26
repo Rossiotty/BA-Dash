@@ -58,25 +58,25 @@
             "AverageOrderSum": "1442.118421"
         }
     ],
-"AvrCheckc": [
+"AvrUnit": [
         {
-            "AverageCheck": "52.45764818",
+            "AverageUnit": "52.45764818",
             "country": "Spain"
         },
         {
-            "AverageCheck": "49.61752137",
+            "AverageUnit": "49.61752137",
             "country": "Sweden"
         },
         {
-            "AverageCheck": "38.70369212",
+            "AverageUnit": "38.70369212",
             "country": "Mexico"
         },
         {
-            "AverageCheck": "31.43685185",
+            "AverageUnit": "31.43685185",
             "country": "Canada"
         },
         {
-            "AverageCheck": "29.4483871",
+            "AverageUnit": "29.4483871",
             "country": "Brazil"
         }
     ]
