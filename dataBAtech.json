@@ -21,7 +21,7 @@
             "avg (employees.salary)": "5983.333333"
         }
     ],
-"Average real order value per client top 5": [
+"AvrOrder": [
         {
             "cust_id": "20",
             "cust_name": "Maria Larsson",
@@ -59,4 +59,3 @@
         }
     ]
 }
- }
