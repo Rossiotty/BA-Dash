@@ -118,44 +118,44 @@
     ],
     "ProdHero": [
         {
-            "category_name": "Grains/Cereals",
-            "product_name": "Ravioli Angelo",
-            "price": "19.5",
-            "units": "120",
-            "supplier_name": "Mayumis",
-            "country": "Japan"
+            "category_name": "Beverages",
+            "product_name": "Cte de Blaye",
+            "REALValue": "52173",
+            "SUM(order_details.units)": "198",
+            "supplier_name": "Lyngbysild",
+            "country": "Denmark"
         },
         {
             "category_name": "Seafood",
-            "product_name": "Gravad lax",
-            "price": "26",
-            "units": "100",
-            "supplier_name": "Leka Trading",
-            "country": "Singapore"
-        },
-        {
-            "category_name": "Condiments",
-            "product_name": "Vegie-spread",
-            "price": "43.9",
-            "units": "90",
+            "product_name": "Carnarvon Tigers",
+            "REALValue": "21312.5",
+            "SUM(order_details.units)": "341",
             "supplier_name": "Specialty Biscuits, Ltd.",
             "country": "UK"
         },
         {
-            "category_name": "Condiments",
-            "product_name": "Louisiana Fiery Hot Pepper Sauce",
-            "price": "21.5",
-            "units": "80",
-            "supplier_name": "New Orleans Cajun Delights",
-            "country": "USA"
+            "category_name": "Confections",
+            "product_name": "Tarte au sucre",
+            "REALValue": "21199",
+            "SUM(order_details.units)": "430",
+            "supplier_name": "Aux joyeux ecclsiastiques",
+            "country": "France"
         },
         {
             "category_name": "Confections",
             "product_name": "Rodneys Marmalade",
-            "price": "81",
-            "units": "80",
+            "REALValue": "18873",
+            "SUM(order_details.units)": "233",
             "supplier_name": "PB Knckebrd AB",
             "country": "Sweden"
+        },
+        {
+            "category_name": "Meat/Poultry",
+            "product_name": "Mishi Kobe Niku",
+            "REALValue": "13580",
+            "SUM(order_details.units)": "140",
+            "supplier_name": "Tokyo Traders",
+            "country": "Japan"
         }
     ]
  }
