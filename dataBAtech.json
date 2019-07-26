@@ -116,27 +116,5 @@
             "SuppliersQuantity": "2"
         }
     ],
-     "TopCateg": [
-        {
-            "category_name": "Condiments",
-            "order_value": "9247.5"
-        },
-        {
-            "category_name": "Confections",
-            "order_value": "2822"
-        },
-        {
-            "category_name": "Produce",
-            "order_value": "2575.3"
-        },
-        {
-            "category_name": "Seafood",
-            "order_value": "2575.3"
-        },
-        {
-            "category_name": "Beverages",
-            "order_value": "1807.5"
-        }
-    ],
-     
+    
  }
