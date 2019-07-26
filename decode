@@ -3,4 +3,4 @@ AvrOrder = Average real order value per client top 5
 AvrUnit =  Average unit value purchased per country top 5
 ShipValue = The total value our shippers delivered 
 SuplQuant = Quantity of suppliers in countries desc by quantity
-
+ProdHero = Which product from each cetegory is top seller in quantities
