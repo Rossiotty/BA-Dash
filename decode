@@ -1,3 +1,3 @@
 AvrSalary = Average salary in department
 AvrOrder = Average real order value per client top 5
-AvrCheckc =  Average bill per country top 5
+AvrCheckc =  Average unit purchased per country top 5
