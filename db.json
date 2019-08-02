@@ -105,7 +105,6 @@
             "REALValue": "52173",
             "UnitsPurchased": "198",
             "supplier_name": "Lyngbysild",
-            "country": "Denmark"
         },
         {
             "category_name": "Seafood",
@@ -113,7 +112,6 @@
             "REALValue": "21312.5",
             "UnitsPurchased": "341",
             "supplier_name": "Specialty Biscuits, Ltd.",
-            "country": "UK"
         },
         {
             "category_name": "Confections",
@@ -121,7 +119,6 @@
             "REALValue": "21199",
             "UnitsPurchased": "430",
             "supplier_name": "Aux joyeux ecclsiastiques",
-            "country": "France"
         },
         {
             "category_name": "Confections",
@@ -129,7 +126,6 @@
             "REALValue": "18873",
             "UnitsPurchased": "233",
             "supplier_name": "PB Knckebrd AB",
-            "country": "Sweden"
         },
         {
             "category_name": "Meat/Poultry",
@@ -137,7 +133,6 @@
             "REALValue": "13580",
             "UnitsPurchased": "140",
             "supplier_name": "Tokyo Traders",
-            "country": "Japan"
         }
     ]
  }
